@@ -15,7 +15,7 @@ This ecosystem is completely decoupled from manual code entry. Every submission 
 
 ---
 
-## 📊 Algorithmic Metrics & Categorization
+##  Algorithmic Metrics & Categorization
 
 | Difficulty Level | Focus Core Concepts | Sync Status |
 | :--- | :--- | :--- |
